@@ -1,4 +1,4 @@
-1) 1. Within a Github action that runs whenever code is pushed. This would allow devs to not even have to think about running tests. It would happen automatically when code is pushed which ensures no bad code is kept on the remote repo. This provides continuous, automatic, and enforceable quality control across the team.
+1) Within a Github action that runs whenever code is pushed. This would allow devs to not even have to think about running tests. It would happen automatically when code is pushed which ensures no bad code is kept on the remote repo. This provides continuous, automatic, and enforceable quality control across the team.
 2) No
 3) Navigation will analyze the page from a full reload, measuring its performance after loading from scratch while snapshot mode will analyze the page as it currently exists.  
 4) Three things to do to improve the website based on lighthouse results:
